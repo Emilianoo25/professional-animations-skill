@@ -1,3 +1,8 @@
+---
+name: professional-animations
+description: Apply award-winning GSAP animation patterns (SVG build-in, split text, particles, magnetic buttons, fly-to-cart, scroll reveal) to any HTML page. Based on Awwwards/Codrops research.
+---
+
 # Professional Web Animations — Agent Skill
 
 ## Overview
